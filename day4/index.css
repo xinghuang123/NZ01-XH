@@ -1,0 +1,18 @@
+/* Color Values */
+.color-example {
+	color: rgb(133, 197, 91);
+	background-color: green;
+}
+
+/* Background Color */
+.background-example {
+	background-color: #ff0000;
+}
+
+/* Background Images Positioning and Repeating */
+.background-position-example {
+	background-image: url("background.jpg");
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+

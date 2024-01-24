@@ -1,0 +1,33 @@
+.static {
+    background-color: lightblue;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+    position: static;
+}
+
+.relative {
+    background-color: lightgreen;
+    padding: 10px;
+    margin-right: 10px;
+    position: relative;
+    top: 20px;
+}
+
+.absolute {
+	background-color: lightyellow;
+	width: 150px;
+	padding: 10px;
+	position: absolute;
+	top: 20px;
+	left: 40px;
+}
+
+.fixed {
+	background-color: lightpink;
+	width: 200px;
+	padding: 10px;
+	top: 60px;
+	position: fixed;
+	right: 30px;
+}
